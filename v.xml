@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipes>
+    <recipe>
+        <name>Shahi Paneer</name>
+        <description>Shahi Paneer is a popular North Indian dish made with paneer (Indian cottage cheese) cooked in a rich, creamy, and aromatic sauce. The sauce typically includes ingredients like onions, tomatoes, cream, and a blend of spices such as cardamom, cloves, and cinnamon. It's often garnished with nuts and served with naan or rice, making it a luxurious and flavorful vegetarian option.</description>
+    </recipe>
+    <recipe>
+        <name>Sambhar Idli</name>
+        <description>Sambar Idli is a traditional South Indian dish that combines two staples: idli and sambar. Idli are soft, steamed rice cakes made from a fermented batter of rice and urad dal (black gram). They are typically served with sambar, a spicy and tangy lentil stew made with vegetables and a blend of aromatic spices. The combination of idli and sambar is not only delicious but also nutritious, offering a hearty meal that is both comforting and satisfying. Often enjoyed for breakfast or as a light lunch, this dish is a quintessential part of South Indian cuisine.</description>
+    </recipe>
+    <recipe>
+        <name>Paneer Bhruji</name>
+        <description>Paneer Bhurji is a popular Indian dish made with crumbled paneer (Indian cottage cheese) sautéed with a mix of spices, onions, tomatoes, and sometimes bell peppers or peas. The dish is similar in texture to scrambled eggs but features paneer as the main ingredient. It's flavored with spices like cumin, turmeric, garam masala, and chili powder, and often garnished with fresh cilantro. Paneer Bhurji is versatile and can be enjoyed with chapati, paratha, or even as a filling for sandwiches and wraps. It's a quick and flavorful option that works well for breakfast, lunch, or dinner..</description>
+    </recipe>
+    <recipe>
+        <name>Rajma Chawal</name>
+        <description>Rajma Chawal is a classic North Indian comfort food consisting of two main components: Rajma (kidney beans curry) and Chawal (rice).
+
+            Rajma is a hearty, flavorful dish made by simmering kidney beans in a spiced tomato-based gravy, often including onions, garlic, ginger, and a variety of spices like cumin, coriander, and garam masala. The curry is rich and robust, sometimes enhanced with a dollop of cream or a sprinkle of fresh coriander.
+            
+            Chawal refers to steamed basmati rice, which is usually served alongside the Rajma. The combination of the creamy, spiced beans and the fluffy rice creates a satisfying and nutritious meal, beloved for its comforting and wholesome qualities. Rajma Chawal is often enjoyed for lunch or dinner and is a staple in many Indian households..</description>
+    </recipe>
+</recipes>
